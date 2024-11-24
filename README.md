@@ -1,10 +1,10 @@
 # Welcome to My GitHub!
 
-Hi there 👋, I'm [Your Name], a passionate IT professional with expertise in web development, data analysis, AI, and more. Below, you'll find some information about my skills, projects, and how you can contact me. Feel free to explore my repositories!
+Hi there 👋, I'm Moyi Julius, a passionate IT professional with expertise in web development, data analysis, AI, and more. Below, you'll find some information about my skills, projects, and how you can contact me. Feel free to explore my repositories!
 
 ## About Me
 
-I'm currently working as a [Your Role/Position] with experience in the following areas:
+I'm currently working as a Developer with experience in the following areas:
 - Web Development (HTML, CSS, JavaScript, Python, Flask)
 - AI & Machine Learning (Python, Scikit-Learn, TensorFlow)
 - Data Science & Analytics (Python, Pandas, Numpy, Matplotlib)
@@ -67,10 +67,10 @@ Here are some of the key skills I have developed:
 
 You can reach out to me through the following channels:
 
-- **Email**: [moyijulius17@gmail.com]
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/julius-moyi-4795772aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **GitHub**: [Github ](https://github.com/moyijulius)
-- **Facebook**: [Facebook](https://www.fb.com/l/6lp1kJRRR)
+- [Email](moyijulius17@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/julius-moyi-4795772aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Github](https://github.com/moyijulius)
+- [Facebook](https://www.fb.com/l/6lp1kJRRR)
 
 ## How to Contribute
 
